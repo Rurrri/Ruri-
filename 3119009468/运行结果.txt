@@ -1,0 +1,6 @@
+抄袭论文	查重率
+orig_0.8_del.txt	0.8077011
+orig_0.8_add.txt	0.5638108
+orig_0.8_dis_1.txt	0.8899804
+orig_0.8_dis_10.txt	0.7066445
+orig_0.8_dis_15.txt	0.4913692
